@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile-card-component-main/static/css/main.4d47b466.chunk.css",
+    "main.js": "/profile-card-component-main/static/js/main.af4b08f2.chunk.js",
+    "main.js.map": "/profile-card-component-main/static/js/main.af4b08f2.chunk.js.map",
+    "runtime-main.js": "/profile-card-component-main/static/js/runtime-main.a333ee8f.js",
+    "runtime-main.js.map": "/profile-card-component-main/static/js/runtime-main.a333ee8f.js.map",
+    "static/js/2.1b49e1dd.chunk.js": "/profile-card-component-main/static/js/2.1b49e1dd.chunk.js",
+    "static/js/2.1b49e1dd.chunk.js.map": "/profile-card-component-main/static/js/2.1b49e1dd.chunk.js.map",
+    "static/js/3.fcea7440.chunk.js": "/profile-card-component-main/static/js/3.fcea7440.chunk.js",
+    "static/js/3.fcea7440.chunk.js.map": "/profile-card-component-main/static/js/3.fcea7440.chunk.js.map",
+    "index.html": "/profile-card-component-main/index.html",
+    "static/css/main.4d47b466.chunk.css.map": "/profile-card-component-main/static/css/main.4d47b466.chunk.css.map",
+    "static/js/2.1b49e1dd.chunk.js.LICENSE.txt": "/profile-card-component-main/static/js/2.1b49e1dd.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/profile-card-component-main/static/media/bg-pattern-top.dae77b1f.svg",
+    "static/media/bg-pattern-card.b61daebd.svg": "/profile-card-component-main/static/media/bg-pattern-card.b61daebd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a333ee8f.js",
+    "static/js/2.1b49e1dd.chunk.js",
+    "static/css/main.4d47b466.chunk.css",
+    "static/js/main.af4b08f2.chunk.js"
+  ]
+}
